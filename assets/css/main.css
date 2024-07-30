@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'HankenGrotesk';
+    src: url('~/assets/fonts/HankenGrotesk.woff2') format('woff2')
+}
+
+@font-face {
+    font-family: 'HankenGrotesk';
+    src: url('~/assets/fonts/HankenGrotesk-Italic.woff2') format('woff2');
+    font-style: italic;
+}

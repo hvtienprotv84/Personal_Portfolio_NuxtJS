@@ -1,0 +1,8 @@
+{
+    "technology": ["HTML", "CSS", "JavaScript","TypeScript", "ReactJS", "Redux","NextJS", "VueJS", "Vuetify","NuxtJS", 
+    "Angular", "Tailwind CSS","jQuery", "Bootstrap", "SASS","Styled-Components", "Material UI", "Java", "Spring Boot", "C#",
+    ".NET", "PHP", "Laravel", "Python", "Flask", "Django","SQLite", "SQL Server", "MySQL", "MongoDB", "Firebase", "Android Studio", 
+    "NodeJS", "ExpressJS", "Git","Github", "Gitlab", "Bitbucket", "Markdown", "Vercel", "Docker","Visual Studio", "Visual Studio Code",
+    "Sublime Text", "Intellij", "Vite", "Webpack","Npm", "Yarn", "Photoshop", "Figma", "AlpineJS", "ElectronJS", "Svelte", "Emotion", 
+    "Framer-Motion", "Gatsby"]
+}
